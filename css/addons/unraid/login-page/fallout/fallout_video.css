@@ -25,6 +25,9 @@
     https://www.colourlovers.com/palette/3428762/Fallout?widths=1
     */
 }
+.background-wrap {
+   background-color: black;
+}
 @media (max-width: 500px) {
     body {
         background: url(https://theme-park.dev/css/addons/unraid/login-page/fallout/wallpaper/terminal.jpg) center center/cover no-repeat fixed !important;
@@ -32,8 +35,4 @@
     :root {
         --div-background-color-15: transparent; 
     }
-.background-wrap {
-   background-color: black;
-}
-
 }
