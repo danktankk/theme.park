@@ -32,4 +32,8 @@
     :root {
         --div-background-color-15: transparent; 
     }
+.background-wrap {
+   background-color: black;
+}
+
 }
