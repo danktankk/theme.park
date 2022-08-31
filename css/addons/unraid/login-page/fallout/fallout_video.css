@@ -2,18 +2,18 @@
 :root {
     --main-bg-color: transparent;
     --logo: url(https://danktankk.github.io/theme.park/css/addons/unraid/login-page/fallout/logo/vault-tec_white.png) center no-repeat;
-    --text-color: #14F074;
-    --input-color: #14F074;
-    --link-color: #14F074;
+    --text-color: #FFFFFF; #14F074
+    --input-color: #FFFFFF; #14F074
+    --link-color: #FFFFFF; #14F074
     --link-color-hover: #0C833D;
-    --case-color: #14F074;
-    --button-text-color: #14F074;
+    --case-color: #FFFFFF; #14F074
+    --button-text-color: #FFFFFF; #14F074
     --button-text-color-hover: #FFFFFF;
-    --button-color: #14F074;
+    --button-color: #FFFFFF; #14F074
     --button-color2: #0C833D;
     --input-font: 'Share Tech Mono', monospace;
     --text-font: 'Share Tech Mono', monospace;
-    --div-background-color-15: #0ea85118;
+    --div-background-color-15: #FFFFFFF; #0ea85118
 
     /* Replace the variables if you have a dark background  */
     /* Light colors for dark backgrounds */
