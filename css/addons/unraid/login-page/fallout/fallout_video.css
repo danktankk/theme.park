@@ -5,15 +5,15 @@
     --text-color: #FFFFFF;
     --input-color: #FFFFFF;
     --link-color: #FFFFFF;
-    --link-color-hover: #0C833D;
+    --link-color-hover: #0096FF;
     --case-color: #FFFFFF;
     --button-text-color: #FFFFFF;
     --button-text-color-hover: #FFFFFF;
     --button-color: #FFFFFF;
-    --button-color2: #0C833D;
+    --button-color2: #0096FF;
     --input-font: 'Share Tech Mono', monospace;
     --text-font: 'Share Tech Mono', monospace;
-    --div-background-color-15: #0ea85118;
+    --div-background-color-15: #0096FF;
 
     /* Replace the variables if you have a dark background  */
     /* Light colors for dark backgrounds */
