@@ -13,11 +13,12 @@
     --button-color2: #0096FF;
     --input-font: 'Share Tech Mono', monospace;
     --text-font: 'Share Tech Mono', monospace;
-    --div-background-color-15: #0096FF18;
-
-    /* Replace the variables if you have a dark background  */
+    --div-background-color-15: rgba(255, 255, 255, 0.15);
+    
+        /* Replace the variables if you have a dark background  */
     /* Light colors for dark backgrounds */
     /*
+        --div-background-color-15: #0ea85118;
         --div-background-color-15: rgba(255, 255, 255, 0.15);
     https://www.transparenttextures.com/patterns/hexellence.png
     https://www.transparenttextures.com/patterns/gplay.png
